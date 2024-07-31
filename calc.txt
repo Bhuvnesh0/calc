@@ -1,0 +1,1 @@
+it performs various calculation very friendly graphic user interfafce offering subraction , multiplication , division , addition and modulus 
